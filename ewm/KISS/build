@@ -2,4 +2,12 @@
 
 # A build script to install ewm in Kiss Linux !
 
+build() {
+    
+    unzip ewm.zip
+    make
+    make clean install
 
+}
+
+build
