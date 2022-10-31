@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+# A build script to install ewm in Kiss Linux !
+
+
